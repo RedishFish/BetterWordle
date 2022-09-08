@@ -7,7 +7,5 @@
   Has a win streak counter 
   
 ### How to run
-  Run Main.java   
-  **OR**   
-  go to the [Replit Repl](https://replit.com/@PHILIPXU1/Wordle)  
+  Go to the [Replit Repl](https://replit.com/@PHILIPXU1/Wordle)  
   
