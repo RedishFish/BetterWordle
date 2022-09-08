@@ -1,0 +1,4 @@
+level:        7
+exp:          100
+personalBest: 4
+winningStreak:1
